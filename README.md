@@ -1,6 +1,7 @@
 # Zelzea
 
 A beautiful color theme for Visual Studio Code
+![Welcome Page](./assets/welcome.png "Welcome page")
 
 ## Installation
 
@@ -10,8 +11,6 @@ Or install this theme from the extension panel (search for "zelzea").
 You can find this theme in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com)
 
 ## Screenshots
-
-![Welcome Page](./assets/welcome.png "Welcome page")
 
 ![Javascript Example](./assets/withjs.png "Javascript Example")
 

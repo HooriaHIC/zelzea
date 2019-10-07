@@ -1,0 +1,24 @@
+{
+    "name": "zelzea",
+    "displayName": "Zelzea",
+    "description": "Zelzea - Beautiful color theme for Visual Studio Code",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "publisher": "HooriaHic",
+    "repository": "https://github.com/HooriaHIC/zelzea",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "zelzea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zelzea-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,7 +1,7 @@
 
 # Zelzea
 
-A beautiful color theme for Visual Studio Code
+A beautiful theme for Visual Studio Code
 ![Welcome Page](./assets/welcome.png "Welcome page")
 
 ## Installation

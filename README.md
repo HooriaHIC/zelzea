@@ -1,3 +1,5 @@
+![Zelzea icon](./assets/icon.png)
+
 # Zelzea
 
 A beautiful color theme for Visual Studio Code

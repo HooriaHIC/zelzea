@@ -23,4 +23,4 @@ You can find this theme in the [Visual Studio Code Marketplace](https://marketpl
 
 If you find any issues, bugs or feedback please feel free to [File an issue](https://github.com/HooriaHIC/zelzea/issues).
 
-### Enjoy Coding!
+#### Enjoy Coding!

@@ -1,4 +1,3 @@
-![Zelzea icon](./assets/icon.png)
 
 # Zelzea
 

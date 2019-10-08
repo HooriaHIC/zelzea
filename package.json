@@ -10,6 +10,11 @@
     "publisher": "HooriaHic",
     "repository": "https://github.com/HooriaHIC/zelzea",
     "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "VSCode",
         "Themes"
     ],
     "contributes": {

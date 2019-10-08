@@ -7,7 +7,7 @@ A beautiful theme for Visual Studio Code
 ## Installation
 
 Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.  
-###### ext install zelzea
+> ext install zelzea
 Or install this theme from the extension panel (search for "zelzea").
 You can find this theme in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HooriaHic.zelzea)
 

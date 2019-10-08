@@ -3,7 +3,7 @@
     "displayName": "Zelzea",
     "description": "Zelzea - Beautiful color theme for Visual Studio Code",
     "version": "0.0.1",
-    "icon": "icon.png",
+    "icon": "assets/icon.png",
     "engines": {
         "vscode": "^1.38.0"
     },

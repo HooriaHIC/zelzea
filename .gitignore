@@ -1,0 +1,6 @@
+*.log
+*.~lock
+**/*.map
+/themes
+/.vscode
+*.vscodeignore
